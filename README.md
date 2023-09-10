@@ -1,7 +1,7 @@
 # AI-Poem-Generation
 This program runs in the shell and generates shakespeare-like poems based on inputs from the user. 
 
-The user has the option to either generate a new model with their choice of a sequence length and step size, or use the existing model stored memory (the model is in the writepoems.model folder and the sequence length and step size are stored in the memory.txt file)
+The user has the option to either generate a new model with their choice of a sequence length and step size, or use the existing model stored in memory (the model is in the writepoems.model folder and the sequence length and step size are stored in the memory.txt file)
 
 HOW TO USE THE PROGRAM:
 Simply download the files and run main.py
